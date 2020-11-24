@@ -37,38 +37,6 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            █████████████████████░░░░   84.62% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-MATLAB                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/WANZARGEN/WANZARGEN/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
