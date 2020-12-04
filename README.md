@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -41,10 +41,10 @@ Sunday       49 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-WebStorm                 65 hrs 57 mins      █████████████████████████   100.0%
+WebStorm                 65 hrs 40 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-console                  65 hrs 55 mins      █████████████████████████   99.97% 
+console                  65 hrs 39 mins      █████████████████████████   99.97% 
 components               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 ```
