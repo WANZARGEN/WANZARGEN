@@ -1,9 +1,12 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWANZARGEN&count_bg=%2346D1A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanjin-noh-424476171/)](https://www.linkedin.com/in/wanjin-noh-424476171/)
-
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-orange)](http://wanzargen.tistory.com/)
+<a  href="https://hits.seeyoufarm.com"  target="_blank">  
+  <img  alt="Hits"  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWANZARGEN&count_bg=%2346D1A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"  />
+<a  href="https://www.linkedin.com/in/wanjin-noh-424476171/"  target="_blank">  
+  <img  alt="Linkedin"  src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanjin-noh-424476171/"  />
+</a>
+<a  href="http://wanzargen.tistory.com/"  target="_blank">  
+  <img  alt="Tech Blog"  src="https://img.shields.io/badge/-Tech%20blog-orange"  />
+</a>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
