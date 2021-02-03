@@ -8,6 +8,10 @@
   <img  alt="Tech Blog"  src="https://img.shields.io/badge/-Tech%20blog-orange"  />
 </a>
 
+<br/>
+<hr>
+<br/>
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
