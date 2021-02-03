@@ -1,6 +1,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWANZARGEN&count_bg=%2346D1A7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanjin-noh-424476171/)](https://www.linkedin.com/in/wanjin-noh-424476171/)
+
+[![Tech Blog Badge](https://img.shields.io/static/v1?label=Tech Blog&color=#EF6B34)](http://wanzargen.tistory.com/)
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
